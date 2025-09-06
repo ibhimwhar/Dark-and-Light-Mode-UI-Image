@@ -1,5 +1,5 @@
-# light mode
+### light mode
 ![](./screenshot1.png)
 
-# dark mode
+### dark mode
 ![](./screenshot2.png)
