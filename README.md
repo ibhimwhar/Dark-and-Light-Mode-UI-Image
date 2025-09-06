@@ -1,2 +1,5 @@
-![]("./Screenshot1.png")
-![]("./Screenshot2.png")
+# light mode
+![](./screenshot1.png)
+
+# dark mode
+![](./screenshot2.png)
