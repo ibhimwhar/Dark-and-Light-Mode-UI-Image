@@ -1,5 +1,5 @@
 ### light mode
-![](./screenshot1.png)
+![](./Screenshot1.png)
 
 ### dark mode
-![](./screenshot2.png)
+![](./Screenshot2.png)
